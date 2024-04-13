@@ -1,6 +1,6 @@
 [
     {
-      "image": "/images/canales/ARGENTINA/24-7.png",
+      "image": "/images/canales/ARGENTINA/C5N.png",
       "link": "go:repro1"
     },
     {
@@ -8,11 +8,11 @@
       "link": "go:repro2"
     },
     {
-      "image": "https://futbollibretyc.com/wp-content/uploads/2023/04/VTV-Plus-en-vivo.webp",
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/TELEFE.png",
       "link": "go:repro3"
     },
     {
-        "image": "/images/canales/ARGENTINA/24-7.png",
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/ELTRECE.png",
         "link": "go:repro1"
       },
       {
@@ -20,7 +20,7 @@
         "link": "go:repro2"
       },
       {
-        "image": "https://futbollibretyc.com/wp-content/uploads/2023/04/VTV-Plus-en-vivo.webp",
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/ARGENTINISIMA.png",
         "link": "go:repro3"
       }
   ]
