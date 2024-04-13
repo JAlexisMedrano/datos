@@ -1,0 +1,55 @@
+[
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/DSPORTS.png",
+      "link": "go:ds"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/DSPORTS+.png",
+      "link": "go:dsplus"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/DSPORTS2.png",
+      "link": "go:ds2"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/ESPN.png",
+      "link": "go:espn"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/ESPN+.png",
+      "link": "go:espnplus"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/ESPN2.png",
+      "link": "go:espn2"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/ESPN3.png",
+      "link": "go:espn3"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/FOXSPORTS.png",
+      "link": "go:fs1"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/FOXSPORTS2.png",
+      "link": "go:fs2"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/FOXSPORTS3.png",
+      "link": "go:fs3"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/TNTSPORTS.png",
+      "link": "go:tntsp"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/TYCSPORTS.png",
+      "link": "go:tyc"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/DEPORTES/TYCPLAY.png",
+      "link": "go:tycplay"
+    }
+  ]
+  
