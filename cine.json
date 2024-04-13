@@ -1,0 +1,55 @@
+[
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/A&E.png",
+      "link": "go:a&e"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/CINECANAL.png",
+      "link": "go:cineca"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/CINEMAX.png",
+      "link": "go:cinemax"
+    },
+    {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/FX.png",
+        "link": "go:fx"
+    },
+    {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/GOLDEN.png",
+        "link": "go:golden"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/HBO.png",
+      "link": "go:hbo"
+    },
+    {
+      "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/HBO+.png",
+      "link": "go:hboplus"
+    },
+      {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/HBO2.png",
+        "link": "go:hbo2"
+      },
+      {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/HBOFAMILY.png",
+        "link": "go:hbofam"
+      },
+      {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/SPACE.png",
+        "link": "go:space"
+      },
+      {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/STARCH.png",
+        "link": "go:starch"
+      },
+      {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/TNT.png",
+        "link": "go:tnt"
+      },
+      {
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/CINE/WARNER.png",
+        "link": "go:warner"
+      }
+  ]
+  
