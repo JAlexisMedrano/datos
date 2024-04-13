@@ -1,0 +1,39 @@
+[
+    {
+      "image": "/images/canales/ARGENTINA/24-7.png",
+      "link": "go:repro1"
+    },
+    {
+      "image": "/images/canales/ARGENTINA/AMERICA.png",
+      "link": "go:repro2"
+    },
+    {
+      "image": "https://futbollibretyc.com/wp-content/uploads/2023/04/VTV-Plus-en-vivo.webp",
+      "link": "go:repro3"
+    },
+    {
+        "image": "/images/canales/ARGENTINA/24-7.png",
+        "link": "go:repro1"
+      },
+      {
+        "image": "/images/canales/ARGENTINA/AMERICA.png",
+        "link": "go:repro2"
+      },
+      {
+        "image": "https://futbollibretyc.com/wp-content/uploads/2023/04/VTV-Plus-en-vivo.webp",
+        "link": "go:repro3"
+      },
+      {
+        "image": "/images/canales/ARGENTINA/24-7.png",
+        "link": "go:repro1"
+      },
+      {
+        "image": "/images/canales/ARGENTINA/AMERICA.png",
+        "link": "go:repro2"
+      },
+      {
+        "image": "https://futbollibretyc.com/wp-content/uploads/2023/04/VTV-Plus-en-vivo.webp",
+        "link": "go:repro3"
+      }
+  ]
+  
