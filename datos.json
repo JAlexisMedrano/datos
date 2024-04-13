@@ -12,16 +12,28 @@
       "link": "go:repro3"
     },
     {
-        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/ELTRECE.png",
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/EL13.png",
         "link": "go:repro1"
       },
       {
-        "image": "/images/canales/ARGENTINA/AMERICA.png",
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/LN.png",
         "link": "go:repro2"
       },
       {
-        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/ARGENTINISIMA.png",
+        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/CRONICA.png",
         "link": "go:repro3"
+      },
+      {
+        "image": "/images/canales/ARGENTINA/TN.png",
+        "link": "go:repro2"
+      },
+      {
+        "image": "/images/canales/ARGENTINA/TV%20PUBLICA.png",
+        "link": "go:repro2"
+      },
+      {
+        "image": "/images/canales/ARGENTINA/LN.png",
+        "link": "go:repro2"
       }
   ]
   
