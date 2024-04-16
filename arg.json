@@ -1,7 +1,8 @@
 [
     {
       "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/AMERICA.png",
-      "link": "go:america"
+      "link": "go:america",
+        "title": "America"
     },
     {
       "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/CRONICA.png",
