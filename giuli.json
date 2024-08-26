@@ -8,6 +8,14 @@
       "image": "https://image.tmdb.org/t/p/original/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
       "link": "go:jovenes",
         "alt": "Jovenes titanes"
+    },
+    {"image": "https://media.themoviedb.org/t/p/w220_and_h330_face/fwvNu121w5zGWA5i7d7gDBrLgmN.jpg",
+      "link": "go:masha",
+        "alt": "Masha y Oso"
+    },
+    {"image": "https://image.tmdb.org/t/p/original/oeUgzsfbAAquY7nNQuPPqTJcuoE.jpg",
+      "link": "go:barbie",
+        "alt": "Barbie: un toque de magia"
     }
   ]
   
