@@ -1,48 +1,8 @@
 [
     {
-      "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/AMERICA.png",
-      "link": "go:america",
-        "alt": "America"
-    },
-    {
-      "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/CRONICA.png",
-      "link": "go:cronica",
-        "alt": "cronica"
-    },
-    {
-      "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/C5N.png",
-      "link": "go:c5n",
-        "alt": "c5n"
-    },
-    {
-        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/EL13.png",
-        "link": "go:el13",
-        "alt": "el trece"
-    },
-    {
-        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/LN.png",
-        "link": "go:ln",
-        "alt": "la nacion"
-    },
-    {
-      "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/ARGENTINISIMA.png",
-      "link": "go:argent",
-        "alt": "argentinisima"
-    },
-    {
-      "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/TELEFE.png",
-      "link": "go:telefe",
-        "alt": "telefe"
-    },
-      {
-        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/TN.png",
-        "link": "go:tn",
-          "alt": "tn"
-      },
-      {
-        "image": "https://tododigital2024.000webhostapp.com/images/canales/ARGENTINA/TV%20PUBLICA.png",
-        "link": "go:tvpubl",
-          "alt": "tv publica"
-      }
+      "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/w7nniXIHDdtUvSjI2DdnLEOvnAU.jpg",
+      "link": "go:lady",
+        "alt": "Miracoulus"
+    }
   ]
   
