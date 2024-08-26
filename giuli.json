@@ -3,6 +3,11 @@
       "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/w7nniXIHDdtUvSjI2DdnLEOvnAU.jpg",
       "link": "go:lady",
         "alt": "Miracoulus"
+    },
+    {
+      "image": "https://image.tmdb.org/t/p/original/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "link": "go:jovenes",
+        "alt": "Jovenes titanes"
     }
   ]
   
